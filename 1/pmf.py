@@ -135,9 +135,6 @@ class PMF(object):
 if __name__ == "__main__":
     file_path = "C:\\Users\\13653\\Desktop\\RCS\\1\\u.data"
     pmf = PMF()
-    # __init__(self, Lambda=0.1, feat=10, epsilon=1, alpha=0.1, momentum=0.9, epoch=20, batch=100, batch_size=1000)
-    # pmf.set_params({"num_feat": 10, "epsilon": 1, "Lambda": 0.1, "momentum": 0.8, "maxepoch": 100, "batch": 100,
-    #                 "batch_size": 1000})
     ratings = pmf.read_data(file_path)
     print(len(np.unique(ratings[:, 0])), len(
         np.unique(ratings[:, 1])), pmf.feat)
