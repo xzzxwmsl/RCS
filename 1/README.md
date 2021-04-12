@@ -3,7 +3,7 @@
 |向正中|2020223040024|
 
 # 第一次作业
-代码参考开源代码，修改为了moment梯度下降法
+代码参考开源代码，修改为了momentum梯度下降法
 ## 参数
 |Lambda|feat(D的维度)|epsilon|alpha|moment|epoch|batch|batch_size|
 |-|-|-|-|-|-|-|-|
