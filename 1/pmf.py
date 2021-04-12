@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 
 
 class PMF(object):
-    def __init__(self, Lambda=0.1, feat=10, epsilon=1, alpha=0.1, momentum=0.8, epoch=100, batch=100, batch_size=1000):
+    def __init__(self, Lambda=0.1, feat=10, epsilon=1, alpha=0.1, momentum=0.8, epoch=100, batch=1000, batch_size=100):
         self.Lambda = Lambda  # 正则
         self.feat = feat  # 潜在特征数,即 D
         self.epsilon = epsilon
@@ -101,8 +101,8 @@ class PMF(object):
                 self.V_inc = self.momentum * self.V_inc + self.epsilon * dw_V / self.batch_size
                 self.U_inc = self.momentum * self.U_inc + self.epsilon * dw_U / self.batch_size
 
-                self.V = self.V - self.V_inc
-                self.U = self.U - self.U_inc
+                self.V = self.V - self.V_inc * self.alpha
+                self.U = self.U - self.U_inc * self.alpha
 
                 # 计算训练集误差
                 if batch == self.batch - 1:
