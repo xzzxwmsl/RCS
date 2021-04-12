@@ -5,7 +5,7 @@
 # 第一次作业 PMF
 PMF项目复现了论文《Probabilistic Matrix Factorization》
 
-代码参考开源代码，修改为了momentum梯度下降法
+代码参考开源代码
 
 结果：对U、V进行了更新并计算了loss。最后，对指定的用户（user_id）进行了top 5的电影推荐。 
 
