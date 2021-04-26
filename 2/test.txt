@@ -1,0 +1,15 @@
+epoch0  precision_10:0.2706,precision_20:0.2406,map_10:0.4395,map_20:0.4016,ndcg_10:0.7757,ndcg_20:0.8113
+epoch20  precision_10:0.2444,precision_20:0.2075,map_10:0.4080,map_20:0.3683,ndcg_10:0.6667,ndcg_20:0.7463
+epoch40  precision_10:0.2545,precision_20:0.2299,map_10:0.4223,map_20:0.3780,ndcg_10:0.7631,ndcg_20:0.8134
+epoch60  precision_10:0.2652,precision_20:0.2418,map_10:0.4317,map_20:0.3882,ndcg_10:0.7254,ndcg_20:0.8092
+epoch80  precision_10:0.2683,precision_20:0.2354,map_10:0.4429,map_20:0.4029,ndcg_10:0.7673,ndcg_20:0.8197
+epoch100  precision_10:0.2579,precision_20:0.2225,map_10:0.4368,map_20:0.3933,ndcg_10:0.7799,ndcg_20:0.8302
+epoch120  precision_10:0.2683,precision_20:0.2276,map_10:0.4332,map_20:0.3941,ndcg_10:0.7673,ndcg_20:0.8218
+epoch140  precision_10:0.2652,precision_20:0.2346,map_10:0.4316,map_20:0.3883,ndcg_10:0.7254,ndcg_20:0.7736
+epoch160  precision_10:0.2688,precision_20:0.2425,map_10:0.4370,map_20:0.3931,ndcg_10:0.7694,ndcg_20:0.8092
+epoch180  precision_10:0.2413,precision_20:0.1925,map_10:0.4181,map_20:0.3794,ndcg_10:0.7589,ndcg_20:0.8050
+epoch200  precision_10:0.2704,precision_20:0.2283,map_10:0.4287,map_20:0.3879,ndcg_10:0.7568,ndcg_20:0.8071
+epoch220  precision_10:0.2625,precision_20:0.2422,map_10:0.4294,map_20:0.3882,ndcg_10:0.7107,ndcg_20:0.8071
+epoch240  precision_10:0.2572,precision_20:0.2325,map_10:0.4232,map_20:0.3801,ndcg_10:0.7191,ndcg_20:0.8071
+epoch260  precision_10:0.2732,precision_20:0.2350,map_10:0.4344,map_20:0.3994,ndcg_10:0.7757,ndcg_20:0.8155
+epoch280  precision_10:0.2686,precision_20:0.2426,map_10:0.4366,map_20:0.3905,ndcg_10:0.7757,ndcg_20:0.8071

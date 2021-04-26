@@ -1,0 +1,361 @@
+device: cpu
+epoch: 0/300, D_loss:1.9031, G_loss:1.0962，time:29.6305
+----------------------
+BEGIN TEST:
+epoch0  precision_10:0.2706,precision_20:0.2406,map_10:0.4395,map_20:0.4016,ndcg_10:0.7757,ndcg_20:0.8113
+----------------------
+epoch: 1/300, D_loss:1.9054, G_loss:1.0960，time:29.3569
+epoch: 2/300, D_loss:1.9068, G_loss:1.0972，time:29.3741
+epoch: 3/300, D_loss:1.9049, G_loss:1.0920，time:29.6535
+epoch: 4/300, D_loss:1.8985, G_loss:1.0907，time:29.2189
+epoch: 5/300, D_loss:1.8906, G_loss:1.0819，time:29.3786
+epoch: 6/300, D_loss:1.8858, G_loss:1.0805，time:29.3553
+epoch: 7/300, D_loss:1.8890, G_loss:1.0269，time:29.4791
+epoch: 8/300, D_loss:1.7970, G_loss:1.0171，time:29.3526
+epoch: 9/300, D_loss:1.9058, G_loss:1.0834，time:29.3783
+epoch: 10/300, D_loss:1.9027, G_loss:1.0586，time:29.2723
+epoch: 11/300, D_loss:1.8701, G_loss:1.0702，time:29.3357
+epoch: 12/300, D_loss:1.8842, G_loss:1.0812，time:29.3964
+epoch: 13/300, D_loss:1.8966, G_loss:1.0276，time:29.3308
+epoch: 14/300, D_loss:1.8616, G_loss:1.0528，time:29.3283
+epoch: 15/300, D_loss:1.8719, G_loss:1.0465，time:29.2835
+epoch: 16/300, D_loss:1.8786, G_loss:1.0489，time:29.4164
+epoch: 17/300, D_loss:1.8798, G_loss:1.0406，time:29.3650
+epoch: 18/300, D_loss:1.8011, G_loss:0.8135，time:29.2129
+epoch: 19/300, D_loss:1.7542, G_loss:0.9704，time:29.4320
+epoch: 20/300, D_loss:1.9099, G_loss:0.9991，time:29.4364
+----------------------
+BEGIN TEST:
+epoch20  precision_10:0.2444,precision_20:0.2075,map_10:0.4080,map_20:0.3683,ndcg_10:0.6667,ndcg_20:0.7463
+----------------------
+epoch: 21/300, D_loss:1.8902, G_loss:1.0973，time:29.3026
+epoch: 22/300, D_loss:1.8245, G_loss:1.0194，time:28.9387
+epoch: 23/300, D_loss:1.8610, G_loss:0.8400，time:29.3974
+epoch: 24/300, D_loss:1.7265, G_loss:0.8980，time:29.4229
+epoch: 25/300, D_loss:1.7793, G_loss:0.8672，time:29.2181
+epoch: 26/300, D_loss:1.8526, G_loss:0.9543，time:29.0896
+epoch: 27/300, D_loss:1.8355, G_loss:1.0414，time:29.0365
+epoch: 28/300, D_loss:1.8927, G_loss:0.9806，time:29.1624
+epoch: 29/300, D_loss:1.8233, G_loss:0.9388，time:28.9854
+epoch: 30/300, D_loss:1.8320, G_loss:0.9089，time:28.9670
+epoch: 31/300, D_loss:1.7977, G_loss:0.9578，time:29.1379
+epoch: 32/300, D_loss:1.8426, G_loss:1.0222，time:29.0908
+epoch: 33/300, D_loss:1.9039, G_loss:0.9332，time:29.2163
+epoch: 34/300, D_loss:1.8333, G_loss:0.8278，time:29.1346
+epoch: 35/300, D_loss:1.7739, G_loss:1.0125，time:29.2144
+epoch: 36/300, D_loss:1.7030, G_loss:0.8837，time:29.5486
+epoch: 37/300, D_loss:1.8431, G_loss:0.7750，time:29.0561
+epoch: 38/300, D_loss:1.7766, G_loss:0.8068，time:29.1513
+epoch: 39/300, D_loss:1.8573, G_loss:1.0321，time:28.9117
+epoch: 40/300, D_loss:1.8432, G_loss:0.8530，time:29.1022
+----------------------
+BEGIN TEST:
+epoch40  precision_10:0.2545,precision_20:0.2299,map_10:0.4223,map_20:0.3780,ndcg_10:0.7631,ndcg_20:0.8134
+----------------------
+epoch: 41/300, D_loss:1.7201, G_loss:0.7940，time:29.0057
+epoch: 42/300, D_loss:1.8090, G_loss:1.1110，time:29.0715
+epoch: 43/300, D_loss:1.8100, G_loss:0.6306，time:29.0428
+epoch: 44/300, D_loss:1.7976, G_loss:1.0431，time:29.3462
+epoch: 45/300, D_loss:1.8398, G_loss:0.8958，time:29.2466
+epoch: 46/300, D_loss:1.8499, G_loss:1.0088，time:29.1915
+epoch: 47/300, D_loss:1.9047, G_loss:1.0811，time:29.1100
+epoch: 48/300, D_loss:1.8857, G_loss:0.6286，time:28.9902
+epoch: 49/300, D_loss:1.7150, G_loss:0.9388，time:28.9942
+epoch: 50/300, D_loss:1.8677, G_loss:1.0141，time:29.3939
+epoch: 51/300, D_loss:1.8631, G_loss:1.0604，time:29.0633
+epoch: 52/300, D_loss:1.8848, G_loss:0.8713，time:29.0606
+epoch: 53/300, D_loss:1.8180, G_loss:0.9646，time:28.9959
+epoch: 54/300, D_loss:1.8066, G_loss:0.8709，time:28.8687
+epoch: 55/300, D_loss:1.8052, G_loss:0.8902，time:28.9181
+epoch: 56/300, D_loss:1.6905, G_loss:0.7113，time:29.0500
+epoch: 57/300, D_loss:1.7680, G_loss:0.9567，time:29.1322
+epoch: 58/300, D_loss:1.9040, G_loss:0.9299，time:29.0599
+epoch: 59/300, D_loss:1.7052, G_loss:0.8748，time:29.0553
+epoch: 60/300, D_loss:1.9037, G_loss:1.0334，time:29.0199
+----------------------
+BEGIN TEST:
+epoch60  precision_10:0.2652,precision_20:0.2418,map_10:0.4317,map_20:0.3882,ndcg_10:0.7254,ndcg_20:0.8092
+----------------------
+epoch: 61/300, D_loss:1.9074, G_loss:0.8075，time:29.1287
+epoch: 62/300, D_loss:1.7824, G_loss:0.9286，time:29.0678
+epoch: 63/300, D_loss:1.7574, G_loss:0.6095，time:29.3423
+epoch: 64/300, D_loss:1.6206, G_loss:0.9123，time:29.6185
+epoch: 65/300, D_loss:1.8776, G_loss:0.7587，time:29.2723
+epoch: 66/300, D_loss:1.6510, G_loss:0.8341，time:29.2639
+epoch: 67/300, D_loss:1.9092, G_loss:0.8388，time:29.1701
+epoch: 68/300, D_loss:1.8169, G_loss:0.9497，time:29.2146
+epoch: 69/300, D_loss:1.7466, G_loss:0.8749，time:29.3807
+epoch: 70/300, D_loss:1.7782, G_loss:1.0128，time:29.3063
+epoch: 71/300, D_loss:1.8651, G_loss:0.5031，time:29.1696
+epoch: 72/300, D_loss:1.5475, G_loss:0.8165，time:29.3687
+epoch: 73/300, D_loss:1.9048, G_loss:0.9703，time:29.1764
+epoch: 74/300, D_loss:1.7418, G_loss:0.8178，time:29.3360
+epoch: 75/300, D_loss:1.7908, G_loss:0.6882，time:29.3575
+epoch: 76/300, D_loss:1.7672, G_loss:0.9891，time:29.5004
+epoch: 77/300, D_loss:1.8860, G_loss:0.6561，time:29.3763
+epoch: 78/300, D_loss:1.7801, G_loss:0.9956，time:29.3554
+epoch: 79/300, D_loss:1.8768, G_loss:0.9522，time:29.0983
+epoch: 80/300, D_loss:1.6864, G_loss:0.5398，time:29.3201
+----------------------
+BEGIN TEST:
+epoch80  precision_10:0.2683,precision_20:0.2354,map_10:0.4429,map_20:0.4029,ndcg_10:0.7673,ndcg_20:0.8197
+----------------------
+epoch: 81/300, D_loss:1.7223, G_loss:0.8996，time:29.4067
+epoch: 82/300, D_loss:1.9268, G_loss:1.0096，time:29.3752
+epoch: 83/300, D_loss:1.9221, G_loss:1.0591，time:29.2556
+epoch: 84/300, D_loss:1.8941, G_loss:0.9186，time:29.2985
+epoch: 85/300, D_loss:1.7688, G_loss:0.9807，time:29.5156
+epoch: 86/300, D_loss:1.8950, G_loss:0.9023，time:29.1553
+epoch: 87/300, D_loss:1.7832, G_loss:0.7422，time:29.0068
+epoch: 88/300, D_loss:1.6449, G_loss:0.9276，time:29.0610
+epoch: 89/300, D_loss:1.8448, G_loss:0.6343，time:29.0812
+epoch: 90/300, D_loss:1.5581, G_loss:0.4658，time:29.1771
+epoch: 91/300, D_loss:1.6230, G_loss:0.7756，time:29.1438
+epoch: 92/300, D_loss:1.8399, G_loss:0.9243，time:29.1750
+epoch: 93/300, D_loss:1.9370, G_loss:1.0349，time:29.0569
+epoch: 94/300, D_loss:1.8955, G_loss:1.0673，time:29.1083
+epoch: 95/300, D_loss:1.7071, G_loss:0.6608，time:29.1645
+epoch: 96/300, D_loss:1.7233, G_loss:0.6967，time:29.1905
+epoch: 97/300, D_loss:1.6078, G_loss:0.8312，time:29.2182
+epoch: 98/300, D_loss:1.8342, G_loss:0.9473，time:29.2321
+epoch: 99/300, D_loss:1.9122, G_loss:0.6819，time:29.3345
+epoch: 100/300, D_loss:1.5997, G_loss:0.6338，time:29.3248
+----------------------
+BEGIN TEST:
+epoch100  precision_10:0.2579,precision_20:0.2225,map_10:0.4368,map_20:0.3933,ndcg_10:0.7799,ndcg_20:0.8302
+----------------------
+epoch: 101/300, D_loss:1.8577, G_loss:1.0572，time:29.0316
+epoch: 102/300, D_loss:1.7441, G_loss:0.6880，time:29.0753
+epoch: 103/300, D_loss:1.5355, G_loss:0.7367，time:29.3623
+epoch: 104/300, D_loss:1.9249, G_loss:0.8256，time:29.2598
+epoch: 105/300, D_loss:1.8485, G_loss:0.8457，time:29.4625
+epoch: 106/300, D_loss:1.7611, G_loss:0.9092，time:29.2514
+epoch: 107/300, D_loss:1.8994, G_loss:1.0183，time:29.0659
+epoch: 108/300, D_loss:1.6388, G_loss:0.2983，time:29.1236
+epoch: 109/300, D_loss:1.6575, G_loss:0.8179，time:29.1241
+epoch: 110/300, D_loss:1.7088, G_loss:0.7341，time:29.4231
+epoch: 111/300, D_loss:1.7663, G_loss:0.6571，time:29.2192
+epoch: 112/300, D_loss:1.5959, G_loss:0.6616，time:29.3068
+epoch: 113/300, D_loss:1.7058, G_loss:0.6612，time:29.1185
+epoch: 114/300, D_loss:1.7778, G_loss:0.8791，time:29.1710
+epoch: 115/300, D_loss:1.8804, G_loss:1.0481，time:29.1647
+epoch: 116/300, D_loss:1.8733, G_loss:0.6554，time:29.1432
+epoch: 117/300, D_loss:1.6194, G_loss:0.7323，time:29.1549
+epoch: 118/300, D_loss:1.6647, G_loss:0.5625，time:29.2003
+epoch: 119/300, D_loss:1.7866, G_loss:1.0138，time:29.0456
+epoch: 120/300, D_loss:1.7853, G_loss:0.7371，time:29.2135
+----------------------
+BEGIN TEST:
+epoch120  precision_10:0.2683,precision_20:0.2276,map_10:0.4332,map_20:0.3941,ndcg_10:0.7673,ndcg_20:0.8218
+----------------------
+epoch: 121/300, D_loss:1.6380, G_loss:0.7655，time:29.2549
+epoch: 122/300, D_loss:1.7562, G_loss:0.9011，time:29.2264
+epoch: 123/300, D_loss:1.8782, G_loss:0.6020，time:29.1409
+epoch: 124/300, D_loss:1.5728, G_loss:0.3591，time:29.3036
+epoch: 125/300, D_loss:1.7403, G_loss:1.0102，time:28.9742
+epoch: 126/300, D_loss:1.7430, G_loss:0.8537，time:29.3984
+epoch: 127/300, D_loss:1.8896, G_loss:0.9534，time:29.1569
+epoch: 128/300, D_loss:1.9150, G_loss:0.6040，time:29.0227
+epoch: 129/300, D_loss:1.5222, G_loss:0.7449，time:29.0341
+epoch: 130/300, D_loss:1.9122, G_loss:0.8958，time:29.2174
+epoch: 131/300, D_loss:1.7795, G_loss:0.9272，time:29.3044
+epoch: 132/300, D_loss:1.8791, G_loss:0.7745，time:29.3518
+epoch: 133/300, D_loss:1.5866, G_loss:0.5315，time:29.1135
+epoch: 134/300, D_loss:1.6883, G_loss:0.9447，time:29.0252
+epoch: 135/300, D_loss:1.8365, G_loss:0.7239，time:29.2551
+epoch: 136/300, D_loss:1.7251, G_loss:0.8701，time:29.2236
+epoch: 137/300, D_loss:1.9076, G_loss:0.8782，time:29.0933
+epoch: 138/300, D_loss:1.7328, G_loss:0.8193，time:29.0313
+epoch: 139/300, D_loss:1.7141, G_loss:0.7250，time:29.0981
+epoch: 140/300, D_loss:1.6886, G_loss:0.7829，time:29.2952
+----------------------
+BEGIN TEST:
+epoch140  precision_10:0.2652,precision_20:0.2346,map_10:0.4316,map_20:0.3883,ndcg_10:0.7254,ndcg_20:0.7736
+----------------------
+epoch: 141/300, D_loss:1.7889, G_loss:0.7431，time:29.0718
+epoch: 142/300, D_loss:1.5882, G_loss:0.7930，time:28.9586
+epoch: 143/300, D_loss:1.8428, G_loss:0.8302，time:29.2167
+epoch: 144/300, D_loss:1.5224, G_loss:0.3511，time:29.0844
+epoch: 145/300, D_loss:1.5847, G_loss:0.8196，time:29.0509
+epoch: 146/300, D_loss:1.8914, G_loss:0.7012，time:29.5353
+epoch: 147/300, D_loss:1.6164, G_loss:0.6768，time:29.0955
+epoch: 148/300, D_loss:1.7440, G_loss:0.6451，time:29.0552
+epoch: 149/300, D_loss:1.7996, G_loss:0.6626，time:29.2115
+epoch: 150/300, D_loss:1.6185, G_loss:0.7204，time:29.1393
+epoch: 151/300, D_loss:1.6300, G_loss:0.4538，time:29.2370
+epoch: 152/300, D_loss:1.5906, G_loss:0.3992，time:29.2090
+epoch: 153/300, D_loss:1.4992, G_loss:0.7129，time:29.0063
+epoch: 154/300, D_loss:1.8162, G_loss:0.7709，time:29.0143
+epoch: 155/300, D_loss:1.6547, G_loss:0.4602，time:29.0270
+epoch: 156/300, D_loss:1.6683, G_loss:0.8116，time:29.0784
+epoch: 157/300, D_loss:1.8928, G_loss:0.8020，time:29.2684
+epoch: 158/300, D_loss:1.7065, G_loss:0.8264，time:29.1771
+epoch: 159/300, D_loss:1.9420, G_loss:0.7877，time:29.0562
+epoch: 160/300, D_loss:1.6480, G_loss:0.8133，time:29.1944
+----------------------
+BEGIN TEST:
+epoch160  precision_10:0.2688,precision_20:0.2425,map_10:0.4370,map_20:0.3931,ndcg_10:0.7694,ndcg_20:0.8092
+----------------------
+epoch: 161/300, D_loss:1.8971, G_loss:0.5910，time:29.6782
+epoch: 162/300, D_loss:1.5295, G_loss:0.7786，time:31.2066
+epoch: 163/300, D_loss:1.8046, G_loss:0.3146，time:32.3154
+epoch: 164/300, D_loss:1.4940, G_loss:0.7697，time:32.1858
+epoch: 165/300, D_loss:1.8856, G_loss:0.9550，time:32.2429
+epoch: 166/300, D_loss:1.6825, G_loss:0.4559，time:32.4477
+epoch: 167/300, D_loss:1.6832, G_loss:0.8512，time:32.4774
+epoch: 168/300, D_loss:1.5963, G_loss:0.7259，time:32.0505
+epoch: 169/300, D_loss:1.7371, G_loss:0.5683，time:31.9389
+epoch: 170/300, D_loss:1.5959, G_loss:0.7593，time:32.2126
+epoch: 171/300, D_loss:1.8501, G_loss:0.8794，time:32.2594
+epoch: 172/300, D_loss:1.8193, G_loss:0.7198，time:32.2217
+epoch: 173/300, D_loss:1.6426, G_loss:0.4981，time:32.0633
+epoch: 174/300, D_loss:1.5155, G_loss:0.6712，time:32.0363
+epoch: 175/300, D_loss:1.7896, G_loss:0.9089，time:32.1968
+epoch: 176/300, D_loss:1.8997, G_loss:0.6410，time:32.3843
+epoch: 177/300, D_loss:1.5625, G_loss:0.4507，time:32.1429
+epoch: 178/300, D_loss:1.5328, G_loss:0.7596，time:32.1484
+epoch: 179/300, D_loss:1.8478, G_loss:0.6365，time:32.1078
+epoch: 180/300, D_loss:1.5438, G_loss:0.5614，time:32.0372
+----------------------
+BEGIN TEST:
+epoch180  precision_10:0.2413,precision_20:0.1925,map_10:0.4181,map_20:0.3794,ndcg_10:0.7589,ndcg_20:0.8050
+----------------------
+epoch: 181/300, D_loss:1.6589, G_loss:0.5201，time:31.1168
+epoch: 182/300, D_loss:1.6457, G_loss:0.5597，time:29.3325
+epoch: 183/300, D_loss:1.5319, G_loss:0.7547，time:29.1274
+epoch: 184/300, D_loss:1.8689, G_loss:0.6834，time:28.9793
+epoch: 185/300, D_loss:1.7281, G_loss:0.8669，time:29.1678
+epoch: 186/300, D_loss:1.8840, G_loss:0.7345，time:29.4323
+epoch: 187/300, D_loss:1.6358, G_loss:0.7402，time:29.0296
+epoch: 188/300, D_loss:1.8861, G_loss:0.5561，time:29.2428
+epoch: 189/300, D_loss:1.5366, G_loss:0.8438，time:29.2605
+epoch: 190/300, D_loss:1.8201, G_loss:0.5565，time:29.1301
+epoch: 191/300, D_loss:1.5681, G_loss:0.6069，time:29.3471
+epoch: 192/300, D_loss:1.6103, G_loss:0.6808，time:29.4167
+epoch: 193/300, D_loss:1.6027, G_loss:0.7484，time:29.4614
+epoch: 194/300, D_loss:1.8588, G_loss:0.4120，time:29.2885
+epoch: 195/300, D_loss:1.5546, G_loss:0.2882，time:29.1764
+epoch: 196/300, D_loss:1.5033, G_loss:0.5310，time:29.1318
+epoch: 197/300, D_loss:1.5829, G_loss:0.5096，time:28.9288
+epoch: 198/300, D_loss:1.5945, G_loss:0.8084，time:29.1194
+epoch: 199/300, D_loss:1.8380, G_loss:0.5040，time:29.1525
+epoch: 200/300, D_loss:1.6416, G_loss:0.6547，time:29.2221
+----------------------
+BEGIN TEST:
+epoch200  precision_10:0.2704,precision_20:0.2283,map_10:0.4287,map_20:0.3879,ndcg_10:0.7568,ndcg_20:0.8071
+----------------------
+epoch: 201/300, D_loss:1.6198, G_loss:0.4583，time:29.1001
+epoch: 202/300, D_loss:1.6297, G_loss:0.5577，time:28.9893
+epoch: 203/300, D_loss:1.5980, G_loss:0.8385，time:29.3484
+epoch: 204/300, D_loss:1.8715, G_loss:0.9137，time:29.1109
+epoch: 205/300, D_loss:1.8158, G_loss:0.4120，time:29.1603
+epoch: 206/300, D_loss:1.4834, G_loss:0.5398，time:29.5741
+epoch: 207/300, D_loss:1.5575, G_loss:0.5580，time:29.1344
+epoch: 208/300, D_loss:1.6623, G_loss:0.8286，time:29.2144
+epoch: 209/300, D_loss:1.7999, G_loss:0.6552，time:29.0136
+epoch: 210/300, D_loss:1.4966, G_loss:0.5967，time:29.1978
+epoch: 211/300, D_loss:1.5952, G_loss:0.7226，time:28.8775
+epoch: 212/300, D_loss:1.9085, G_loss:0.5307，time:28.9441
+epoch: 213/300, D_loss:1.4838, G_loss:0.6735，time:29.0312
+epoch: 214/300, D_loss:1.8336, G_loss:0.5445，time:29.2891
+epoch: 215/300, D_loss:1.4794, G_loss:0.6831，time:29.0794
+epoch: 216/300, D_loss:1.8319, G_loss:0.6422，time:29.4818
+epoch: 217/300, D_loss:1.5252, G_loss:0.5387，time:29.0232
+epoch: 218/300, D_loss:1.5447, G_loss:0.5317，time:29.1265
+epoch: 219/300, D_loss:1.5816, G_loss:0.4782，time:29.0623
+epoch: 220/300, D_loss:1.5443, G_loss:0.6897，time:29.0044
+----------------------
+BEGIN TEST:
+epoch220  precision_10:0.2625,precision_20:0.2422,map_10:0.4294,map_20:0.3882,ndcg_10:0.7107,ndcg_20:0.8071
+----------------------
+epoch: 221/300, D_loss:1.6118, G_loss:0.4308，time:29.1586
+epoch: 222/300, D_loss:1.5359, G_loss:0.3658，time:29.2135
+epoch: 223/300, D_loss:1.6505, G_loss:0.8135，time:29.2032
+epoch: 224/300, D_loss:1.7934, G_loss:0.5832，time:29.2643
+epoch: 225/300, D_loss:1.5532, G_loss:0.5344，time:29.2192
+epoch: 226/300, D_loss:1.6345, G_loss:0.7573，time:29.1207
+epoch: 227/300, D_loss:1.7927, G_loss:0.8614，time:29.5660
+epoch: 228/300, D_loss:1.7782, G_loss:0.2681，time:29.2462
+epoch: 229/300, D_loss:1.4827, G_loss:0.5755，time:29.2021
+epoch: 230/300, D_loss:1.6837, G_loss:0.8239，time:29.2723
+epoch: 231/300, D_loss:1.9071, G_loss:0.9624，time:29.1542
+epoch: 232/300, D_loss:1.6806, G_loss:0.5344，time:29.1932
+epoch: 233/300, D_loss:1.7423, G_loss:0.6843，time:29.1766
+epoch: 234/300, D_loss:1.4826, G_loss:0.2706，time:29.3458
+epoch: 235/300, D_loss:1.4829, G_loss:0.6835，time:29.1474
+epoch: 236/300, D_loss:1.8709, G_loss:0.8854，time:29.2728
+epoch: 237/300, D_loss:1.6177, G_loss:0.4302，time:29.3748
+epoch: 238/300, D_loss:1.5173, G_loss:0.3457，time:29.3921
+epoch: 239/300, D_loss:1.4470, G_loss:0.4722，time:29.1946
+epoch: 240/300, D_loss:1.7027, G_loss:0.6567，time:29.1959
+----------------------
+BEGIN TEST:
+epoch240  precision_10:0.2572,precision_20:0.2325,map_10:0.4232,map_20:0.3801,ndcg_10:0.7191,ndcg_20:0.8071
+----------------------
+epoch: 241/300, D_loss:1.6411, G_loss:0.8083，time:29.2172
+epoch: 242/300, D_loss:1.7452, G_loss:0.5228，time:29.1086
+epoch: 243/300, D_loss:1.5679, G_loss:0.3489，time:29.3936
+epoch: 244/300, D_loss:1.4497, G_loss:0.1951，time:29.2561
+epoch: 245/300, D_loss:1.5243, G_loss:0.7244，time:29.1568
+epoch: 246/300, D_loss:1.8372, G_loss:0.7079，time:29.1730
+epoch: 247/300, D_loss:1.4360, G_loss:0.5835，time:29.4473
+epoch: 248/300, D_loss:1.5762, G_loss:0.7048，time:29.1448
+epoch: 249/300, D_loss:1.8732, G_loss:0.8578，time:29.5609
+epoch: 250/300, D_loss:1.6511, G_loss:0.7009，time:29.2114
+epoch: 251/300, D_loss:1.7704, G_loss:0.2839，time:29.2369
+epoch: 252/300, D_loss:1.4923, G_loss:0.4819，time:29.1297
+epoch: 253/300, D_loss:1.6069, G_loss:0.7419，time:29.3676
+epoch: 254/300, D_loss:1.8010, G_loss:1.0755，time:29.0539
+epoch: 255/300, D_loss:1.7912, G_loss:0.2634，time:29.3272
+epoch: 256/300, D_loss:1.4178, G_loss:0.4566，time:29.0477
+epoch: 257/300, D_loss:1.5534, G_loss:0.3577，time:29.3850
+epoch: 258/300, D_loss:1.4953, G_loss:0.6679，time:29.4747
+epoch: 259/300, D_loss:1.6080, G_loss:0.6253，time:29.1787
+epoch: 260/300, D_loss:1.7873, G_loss:0.7301，time:29.0980
+----------------------
+BEGIN TEST:
+epoch260  precision_10:0.2732,precision_20:0.2350,map_10:0.4344,map_20:0.3994,ndcg_10:0.7757,ndcg_20:0.8155
+----------------------
+epoch: 261/300, D_loss:1.7852, G_loss:0.9119，time:29.3086
+epoch: 262/300, D_loss:1.7887, G_loss:0.4089，time:29.4604
+epoch: 263/300, D_loss:1.4446, G_loss:0.6474，time:29.4572
+epoch: 264/300, D_loss:1.6748, G_loss:0.3275，time:29.0052
+epoch: 265/300, D_loss:1.4475, G_loss:0.4362，time:29.1872
+epoch: 266/300, D_loss:1.5762, G_loss:0.5021，time:29.4059
+epoch: 267/300, D_loss:1.4687, G_loss:0.6630，time:29.2412
+epoch: 268/300, D_loss:1.8584, G_loss:0.5213，time:29.2388
+epoch: 269/300, D_loss:1.5569, G_loss:0.5907，time:29.3361
+epoch: 270/300, D_loss:1.5422, G_loss:0.6387，time:29.4936
+epoch: 271/300, D_loss:1.7991, G_loss:0.5056，time:29.4764
+epoch: 272/300, D_loss:1.5301, G_loss:0.7176，time:29.0714
+epoch: 273/300, D_loss:1.8005, G_loss:0.7112，time:29.1865
+epoch: 274/300, D_loss:1.5198, G_loss:0.3302，time:29.3676
+epoch: 275/300, D_loss:1.5081, G_loss:0.3236，time:29.3395
+epoch: 276/300, D_loss:1.4969, G_loss:0.2314，time:29.1909
+epoch: 277/300, D_loss:1.4728, G_loss:0.6385，time:29.1904
+epoch: 278/300, D_loss:1.8619, G_loss:1.0204，time:29.1838
+epoch: 279/300, D_loss:1.8568, G_loss:0.7082，time:29.2714
+epoch: 280/300, D_loss:1.5659, G_loss:0.5222，time:29.1952
+----------------------
+BEGIN TEST:
+epoch280  precision_10:0.2686,precision_20:0.2426,map_10:0.4366,map_20:0.3905,ndcg_10:0.7757,ndcg_20:0.8071
+----------------------
+epoch: 281/300, D_loss:1.6952, G_loss:0.8945，time:29.2370
+epoch: 282/300, D_loss:1.7451, G_loss:0.3185，time:29.3408
+epoch: 283/300, D_loss:1.4466, G_loss:0.5158，time:29.1684
+epoch: 284/300, D_loss:1.7058, G_loss:0.6311，time:29.2007
+epoch: 285/300, D_loss:1.5631, G_loss:0.7254，time:29.1115
+epoch: 286/300, D_loss:1.5176, G_loss:0.6659，time:29.3165
+epoch: 287/300, D_loss:1.5606, G_loss:0.2340，time:29.2674
+epoch: 288/300, D_loss:1.4289, G_loss:0.5825，time:29.4089
+epoch: 289/300, D_loss:1.6280, G_loss:0.6858，time:29.0159
+epoch: 290/300, D_loss:1.5439, G_loss:0.5174，time:30.1180
+epoch: 291/300, D_loss:1.5575, G_loss:0.3393，time:29.2285
+epoch: 292/300, D_loss:1.5159, G_loss:0.5971，time:29.4237
+epoch: 293/300, D_loss:1.6834, G_loss:0.3235，time:29.2691
+epoch: 294/300, D_loss:1.4959, G_loss:0.5595，time:29.2324
+epoch: 295/300, D_loss:1.8506, G_loss:0.9666，time:29.2580
+epoch: 296/300, D_loss:1.8336, G_loss:0.7345，time:29.3559
+epoch: 297/300, D_loss:1.4738, G_loss:0.2808，time:29.5868
+epoch: 298/300, D_loss:1.5017, G_loss:0.3782，time:29.2374
+epoch: 299/300, D_loss:1.5316, G_loss:0.6409，time:29.3529
