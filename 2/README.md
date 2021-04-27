@@ -15,6 +15,17 @@
 
 训练集 : 测试集=8:2
 
+## 说明
+Discrimination.py 和 Generator.py是判别器和生成器
+
+loss.py 和 readtest.py 是生成测试结果的文件
+
+result.txt是运行过程，test.txt是测试结果
+
+evall.py 和 support.py是支持工具，来自开源代码
+
+train.py 是入口文件
+
 ## 运行截图
 ### 运行截图
 ![](运行结果截图/运行过程.png)

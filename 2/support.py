@@ -3,6 +3,7 @@
 import numpy as np
 import pandas as pd
 import evall
+import torch
 train_data = np.array(pd.read_csv(r'data/train_data.csv',usecols=['userId','itemId','gerne']))
 
 #neg_data = np.array(pd.read_csv(r'data/neg_data.csv',usecols=['userId','itemId','gerne']))
@@ -207,7 +208,11 @@ def control():
     construt_traindata()
     construt_negativedata()
     
+# 获取训练数据
+def get_data(begin, end):
+    train_user_batch, train_item_batch, train_attr_batch,train_user_emb_batch = get_traindata(begin, end)
+    counter_user_batch, counter_item_batch, counter_attr_batch, counter_user_emb_batch = get_negdata(begin, end)
 
-
+    return torch.Tensor(train_attr_batch),torch.Tensor(train_user_emb_batch),torch.Tensor(counter_attr_batch), torch.Tensor(counter_user_emb_batch)
 
 
